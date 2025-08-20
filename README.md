@@ -1,4 +1,4 @@
 # MyTest
 Test File
 <br>
-Hello. The eauthor is Hemnat
+Hello. The author is Hemnat
